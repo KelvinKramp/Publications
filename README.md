@@ -1,12 +1,12 @@
-## BOOKS
+# BOOKS
 Urban kiz: A new vision on partner dance (2021)
 www.urbankizbook.com
 
 Education in laparoscopic surgery: All eyes towards in vivo training (2016) 
 ISBN 978-90-367-9322-3
 
-## PUBLICATIONS
-# RESEARCH DURING PHD THESIS
+# PUBLICATIONS
+## RESEARCH DURING PHD THESIS
 The Pareto analysis for establishing content criteria in surgical training. 
 Kramp KH, van Det MJ, Veeger NJ, Pierie JP.
 J Surg Educ. 2016. 
@@ -27,7 +27,7 @@ Development of a Standardized Training Course for Laparoscopic Procedures Using 
 Bethlehem MS, Kramp KH, van Det MJ, ten Cate Hoedemaker HO, Veeger NJ, Pierie JP. 
 J Surg Educ. 2014. 
 
-# SURGERY
+## SURGERY
 Procedure-based assessment for laparoscopic cholecystectomy can replace global rating scales.
 van Zwieten, T. H., Okkema, S., Kramp, K. H., de Jong, K., Van Det, M. J., & Pierie, J.P.E.N.
 Min Inv Therapy & Allied Technologies (2021).
@@ -47,7 +47,7 @@ BMJ Case Reports. 2015. 
 Bonyo trial: congruency between the microbiological assessment of bone samples and bone swaps in patients with osteomyelitis.  Diagnosis and treatment of osteomyelitis in Academisch Ziekenhuis Paramaribo. 
 (Not published)
 
-# EMERGENCY MEDICINE
+## EMERGENCY MEDICINE
 Do not resuscitate orders in the emergency department.
 K.H.Kramp, R. de Hond, M. Mehrab, R.A.P.A. Hessels, M.A.A. van Hooft  
 (Under review)
