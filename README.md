@@ -1,9 +1,10 @@
 # BOOKS
-Urban kiz: A new vision on partner dance (2021)
+Urban kiz: A new vision on partner dance. 
+ISBN 978-90-9034430-0 (2021)
 www.urbankizbook.com
 
-Education in laparoscopic surgery: All eyes towards in vivo training (2016) 
-ISBN 978-90-367-9322-3
+Education in laparoscopic surgery: All eyes towards in vivo training.  
+ISBN 978-90-367-9322-3 (2016)
 
 # PUBLICATIONS
 ## RESEARCH DURING PHD THESIS
