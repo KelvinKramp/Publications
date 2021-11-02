@@ -5,7 +5,10 @@ www.urbankizbook.com
 
 Education in laparoscopic surgery: All eyes towards in vivo training.  
 ISBN 978-90-367-9322-3 (2016)
-#  
+\n
+
+
+
 # PUBLICATIONS
 ## RESEARCH DURING PHD THESIS
 The Pareto analysis for establishing content criteria in surgical training. 
