@@ -12,7 +12,7 @@ ISBN 978-90-367-9322-3 (2016)
 
 
 # Publications
-## Research during PhD thesis
+## Education
 The Pareto analysis for establishing content criteria in surgical training. 
 Kramp KH, van Det MJ, Veeger NJ, Pierie JP.
 J Surg Educ. 2016. 
