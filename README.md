@@ -33,7 +33,7 @@ Development of a Standardized Training Course for Laparoscopic Procedures Using 
 Bethlehem MS, Kramp KH, van Det MJ, ten Cate Hoedemaker HO, Veeger NJ, Pierie JP. 
 J Surg Educ. 2014. 
 
-## Surgers
+## Surgery
 Procedure-based assessment for laparoscopic cholecystectomy can replace global rating scales.
 van Zwieten, T. H., Okkema, S., Kramp, K. H., de Jong, K., Van Det, M. J., & Pierie, J.P.E.N.
 Min Inv Therapy & Allied Technologies (2021).
