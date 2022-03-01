@@ -13,6 +13,14 @@ ISBN 978-90-367-9322-3 (2016)
 
 # Publications
 ## Education
+Procedure-based assessment for laparoscopic cholecystectomy can replace global rating scales.
+van Zwieten, T. H., Okkema, S., Kramp, K. H., de Jong, K., Van Det, M. J., & Pierie, J.P.E.N.
+Min Inv Therapy & Allied Technologies (2021).
+
+Staying in touch with reality: the importance of stereoscopic vision.
+Kramp KH. 
+Med Educ. 2018.  
+
 The Pareto analysis for establishing content criteria in surgical training. 
 Kramp KH, van Det MJ, Veeger NJ, Pierie JP.
 J Surg Educ. 2016. 
@@ -33,15 +41,8 @@ Development of a Standardized Training Course for Laparoscopic Procedures Using 
 Bethlehem MS, Kramp KH, van Det MJ, ten Cate Hoedemaker HO, Veeger NJ, Pierie JP. 
 J Surg Educ. 2014. 
 
+
 ## Surgery
-Procedure-based assessment for laparoscopic cholecystectomy can replace global rating scales.
-van Zwieten, T. H., Okkema, S., Kramp, K. H., de Jong, K., Van Det, M. J., & Pierie, J.P.E.N.
-Min Inv Therapy & Allied Technologies (2021).
-
-Staying in touch with reality: the importance of stereoscopic vision.
-Kramp KH. 
-Med Educ. 2018.  
-
 Necrotizing soft-tissue infection after self-removal of an artificial penile nodule in a Surinamese man.
 M Jalink, KH Kramp, S Baktawar, A Jewbali.
 BMJ Case Reports. 2016.  
