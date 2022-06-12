@@ -41,7 +41,6 @@ Development of a Standardized Training Course for Laparoscopic Procedures Using 
 Bethlehem MS, Kramp KH, van Det MJ, ten Cate Hoedemaker HO, Veeger NJ, Pierie JP. 
 J Surg Educ. 2014. 
 
-
 ## Surgery
 Necrotizing soft-tissue infection after self-removal of an artificial penile nodule in a Surinamese man.
 M Jalink, KH Kramp, S Baktawar, A Jewbali.
@@ -55,15 +54,10 @@ Bonyo trial: congruency between the microbiological assessment of bone samples a
 (Not published)
 
 ## Emergency Medicine
-Do not resuscitate orders in the emergency department.
+CPR-Directive Conversations in the Emergency Department: The Opinion of Elderly Patients.
 K.H.Kramp, R. de Hond, M. Mehrab, R.A.P.A. Hessels, M.A.A. van Hooft  
-(Under review)
+Journal of Geriatric Emergency Medicine. 2022.
 
 Cardiac arrest after the inhalation of deodorant spray.
 KH Kramp, M Salih, E Thomeer, M Gardien.
 BMJ Case Reports. 2018.  
-Republished on:
-CNN: 19-year-old dies after inhaling deodorant spray to get high
-Independent: Dutch teenager dies after inhaling deodorant spray in effort to get high
-FOX news: Dutch teen dies after inhaling deodorant spray to get high.
-Volkskrant: 19-jarige sterft na inhaleren deodorant spray
